@@ -22,7 +22,7 @@ const programs = [
   {
     icon: BookOpen,
     title: 'Science of Mind Foundations',
-    description: 'A structured educational program exploring the core principles of Ernest Holmes' Science of Mind. These classes provide a deep understanding of spiritual law, the nature of consciousness, and practical techniques for applying these principles to everyday life.',
+    description: "A structured educational program exploring the core principles of Ernest Holmes' Science of Mind. These classes provide a deep understanding of spiritual law, the nature of consciousness, and practical techniques for applying these principles to everyday life.",
     details: [
       'Foundations of Science of Mind (10-week course)',
       'Study of The Science of Mind textbook',
@@ -67,7 +67,7 @@ const programs = [
   {
     icon: Baby,
     title: 'Youth & Family Ministry',
-    description: 'Spiritual education programs for children and teens that teach Science of Mind principles in age-appropriate ways. Our youth programs emphasize self-esteem, compassion, creativity, and the recognition of each child's innate divinity.',
+    description: "Spiritual education programs for children and teens that teach Science of Mind principles in age-appropriate ways. Our youth programs emphasize self-esteem, compassion, creativity, and the recognition of each child's innate divinity.",
     details: [
       'Sunday morning youth classes (ages 4-12)',
       'Teen discussion groups (ages 13-17)',
@@ -98,7 +98,7 @@ const programs = [
 
 const upcomingEvents = [
   { title: 'Fall Equinox Celebration', date: 'September 21, 2026', time: '10:00 AM', location: 'Main Sanctuary', description: 'A special Sunday service celebrating balance, harvest, and gratitude as we transition into the autumn season.' },
-  { title: 'Science of Mind Foundations Class Begins', date: 'October 6, 2026', time: '6:30 PM', location: 'Education Room', description: 'Ten-week introductory course covering the core principles of Ernest Holmes' Science of Mind. Registration required.' },
+  { title: 'Science of Mind Foundations Class Begins', date: 'October 6, 2026', time: '6:30 PM', location: 'Education Room', description: "Ten-week introductory course covering the core principles of Ernest Holmes' Science of Mind. Registration required." },
   { title: 'Day of Mindfulness Retreat', date: 'November 8, 2026', time: '9:00 AM - 4:00 PM', location: '2646 Palma Dr Ste 250', description: 'A full-day retreat featuring meditation, reflection, nature walks, and community fellowship. Lunch provided.' },
   { title: 'Holiday Giving Drive Kickoff', date: 'November 22, 2026', time: '10:00 AM', location: 'Community Hall', description: 'Launch of our annual holiday giving campaign supporting local families in need throughout Ventura County.' },
 ]
