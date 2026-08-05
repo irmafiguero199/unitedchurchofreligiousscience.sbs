@@ -15,7 +15,7 @@ const programs = [
   {
     icon: BookOpen,
     title: 'Science of Mind Classes',
-    description: 'Structured study groups exploring Ernest Holmes' foundational text and practical spiritual principles for daily living.',
+    description: "Structured study groups exploring Ernest Holmes' foundational text and practical spiritual principles for daily living.",
     link: '/programs',
   },
   {
