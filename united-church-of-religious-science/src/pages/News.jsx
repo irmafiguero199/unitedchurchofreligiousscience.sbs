@@ -31,7 +31,7 @@ const articles = [
     title: 'Remembering Ernest Holmes: Legacy and Relevance',
     date: 'May 22, 2026',
     category: 'History',
-    excerpt: 'On the anniversary of Ernest Holmes' passing, we reflect on the enduring relevance of his teachings in a modern world seeking meaning, healing, and connection.',
+    excerpt: "On the anniversary of Ernest Holmes' passing, we reflect on the enduring relevance of his teachings in a modern world seeking meaning, healing, and connection.",
   },
   {
     title: 'New Meditation Series: Wednesdays at 7 PM',
