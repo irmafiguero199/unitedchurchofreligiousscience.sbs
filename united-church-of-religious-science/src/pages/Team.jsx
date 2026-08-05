@@ -10,7 +10,7 @@ const boardRoles = [
   },
   {
     title: 'Vice President',
-    description: 'Supports the President in governance duties and assumes leadership responsibilities in the President's absence. Oversees specific committees including Finance and Program Development.',
+    description: "Supports the President in governance duties and assumes leadership responsibilities in the President's absence. Oversees specific committees including Finance and Program Development.",
     responsibilities: ['Committee oversight', 'Leadership succession', 'Program evaluation', 'Member engagement'],
   },
   {
