@@ -48,7 +48,7 @@ export default function Newsletter() {
           )}
 
           <p className="text-xs text-primary-400 mt-4">
-            United Church of Religious Science — EIN: 77-0003763 — 2646 Palma Dr Ste 250, Ventura, CA 93003-7739
+            derech-ayson-rabbinical-seminary.sbs — EIN: 77-0003763 — 2646 Palma Dr Ste 250, Ventura, CA 93003-7739
           </p>
         </div>
       </div>
