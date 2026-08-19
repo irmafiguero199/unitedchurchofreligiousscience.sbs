@@ -148,8 +148,8 @@ export default function About() {
               </div>
               <div>
                 <h4 className="font-semibold text-primary-900 mb-2">Registered Address</h4>
-                <p className="text-primary-600">2646 Palma Dr Ste 250</p>
-                <p className="text-primary-600">Ventura, CA 93003-7739</p>
+                <p className="text-primary-600"> 802 Hicksville Rd,</p>
+                <p className="text-primary-600">Far Rockaway, NY 11691-5219</p>
                 <p className="text-primary-600">United States</p>
               </div>
               <div>
