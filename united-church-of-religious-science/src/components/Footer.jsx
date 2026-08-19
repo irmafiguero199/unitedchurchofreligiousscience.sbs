@@ -41,7 +41,7 @@ export default function Footer() {
             </p>
             <div className="inline-flex items-center gap-2 bg-primary-800 px-3 py-1.5 rounded-md text-xs">
               <ShieldCheck className="w-4 h-4 text-accent-400" />
-              <span className="font-medium">501(c)(3) | EIN: 77-0003763</span>
+              <span className="font-medium">501(c)(3) | EIN: 11-2611716</span>
             </div>
           </div>
 
@@ -73,7 +73,7 @@ export default function Footer() {
             </ul>
             <div className="mt-6 pt-6 border-t border-primary-700">
               <h4 className="font-medium text-sm mb-2 text-accent-300">Federal Tax Info</h4>
-              <p className="text-primary-300 text-xs">EIN: 77-0003763</p>
+              <p className="text-primary-300 text-xs">EIN: 11-2611716</p>
               <p className="text-primary-300 text-xs">IRS 501(c)(3) Tax-Exempt</p>
               <p className="text-primary-300 text-xs">Tax-Exempt Since Sept. 1984</p>
             </div>
@@ -99,8 +99,8 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-2.5">
                 <Mail className="w-4 h-4 text-accent-400 shrink-0" />
-                <a href="mailto:admin@unitedchurchofreligiousscience.sbs" className="text-primary-200 hover:text-accent-300 transition-colors">
-                  admin@unitedchurchofreligiousscience.sbs
+                <a href="mailto:DERECH AYSON RABBINICAL SEMINARY" className="text-primary-200 hover:text-accent-300 transition-colors">
+                  DERECH AYSON RABBINICAL SEMINARY
                 </a>
               </div>
             </div>
@@ -118,7 +118,7 @@ export default function Footer() {
         <div className="container-wide mx-auto px-4 sm:px-6 lg:px-8 py-5">
           <div className="flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-primary-400">
             <div className="flex items-center gap-1">
-              <span>&copy; {new Date().getFullYear()} United Church of Religious Science. All rights reserved.</span>
+              <span>&copy; {new Date().getFullYear()} DERECH AYSON RABBINICAL SEMINARY. All rights reserved.</span>
             </div>
             <div className="flex items-center gap-1">
               <span>Made with</span>
@@ -126,10 +126,10 @@ export default function Footer() {
               <span>in Ventura, CA</span>
             </div>
             <div className="text-center md:text-right">
-              <span>EIN: 77-0003763 | </span>
+              <span>EIN: 11-2611716 | </span>
               <span>2646 Palma Dr Ste 250, Ventura, CA 93003-7739 | </span>
-              <a href="mailto:admin@unitedchurchofreligiousscience.sbs" className="hover:text-accent-300 transition-colors">
-                admin@unitedchurchofreligiousscience.sbs
+              <a href="mailto:DERECH AYSON RABBINICAL SEMINARY" className="hover:text-accent-300 transition-colors">
+                DERECH AYSON RABBINICAL SEMINARY
               </a>
             </div>
           </div>
