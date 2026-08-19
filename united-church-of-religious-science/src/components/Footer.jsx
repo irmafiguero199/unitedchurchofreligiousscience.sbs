@@ -127,7 +127,7 @@ export default function Footer() {
             </div>
             <div className="text-center md:text-right">
               <span>EIN: 11-2611716 | </span>
-              <span>2646 Palma Dr Ste 250, Ventura, CA 93003-7739 | </span>
+              <span>802 Hicksville Rd, Far Rockaway, NY 11691-5219 | </span>
               <a href="mailto:DERECH AYSON RABBINICAL SEMINARY" className="hover:text-accent-300 transition-colors">
                 DERECH AYSON RABBINICAL SEMINARY
               </a>
