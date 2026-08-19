@@ -22,7 +22,7 @@ export default function Contact() {
       <Helmet>
         <title>Contact Us | DERECH AYSON RABBINICAL SEMINARY | 501(c)(3) Ventura, CA</title>
         <meta name="description" content="Contact the DERECH AYSON RABBINICAL SEMINARY in Ventura, CA. 501(c)(3) nonprofit (EIN: 11-2611716). Address: 802 Hicksville Rd, Far Rockaway, NY 11691-5219." />
-        <link rel="canonical" href="https://unitedchurchofreligiousscience.sbs/contact" />
+        <link rel="canonical" href="https://derech-ayson-rabbinical-seminary.sbs/contact" />
       </Helmet>
 
       {/* Hero */}
@@ -54,8 +54,8 @@ export default function Contact() {
                       <h4 className="font-semibold text-primary-900">Physical Address</h4>
                       <p className="text-primary-600 text-sm">
                         DERECH AYSON RABBINICAL SEMINARY<br />
-                        2646 Palma Dr Ste 250<br />
-                        Ventura, CA 93003-7739<br />
+                        802 Hicksville Rd<br />
+                        Far Rockaway, NY 11691-5219<br />
                         United States
                       </p>
                     </div>
