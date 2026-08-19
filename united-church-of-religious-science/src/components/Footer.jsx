@@ -100,7 +100,7 @@ export default function Footer() {
               <div className="flex items-center gap-2.5">
                 <Mail className="w-4 h-4 text-accent-400 shrink-0" />
                 <a href="mailto:DERECH AYSON RABBINICAL SEMINARY" className="text-primary-200 hover:text-accent-300 transition-colors">
-                  DERECH AYSON RABBINICAL SEMINARY
+                  admin@derech-ayson-rabbinical-seminary.sbs
                 </a>
               </div>
             </div>
