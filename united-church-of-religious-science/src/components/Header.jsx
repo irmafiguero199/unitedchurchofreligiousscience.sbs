@@ -38,7 +38,7 @@ export default function Header() {
           <div className="flex items-center gap-4 flex-wrap">
             <span className="flex items-center gap-1.5">
               <ShieldCheck className="w-4 h-4 text-accent-400" />
-              <span className="font-medium">EIN: 77-0003763</span>
+              <span className="font-medium">EIN: 11-2611716</span>
             </span>
             <span className="hidden sm:flex items-center gap-1.5 text-primary-200">
               <MapPin className="w-3.5 h-3.5" />
@@ -50,9 +50,9 @@ export default function Header() {
               <Phone className="w-3.5 h-3.5" />
               <span>(805) 643-1933</span>
             </a>
-            <a href="mailto:admin@unitedchurchofreligiousscience.sbs" className="hidden md:flex items-center gap-1.5 hover:text-accent-300 transition-colors">
+            <a href="mailto:admin@derech-ayson-rabbinical-seminary.sbs" className="hidden md:flex items-center gap-1.5 hover:text-accent-300 transition-colors">
               <Mail className="w-3.5 h-3.5" />
-              <span>admin@unitedchurchofreligiousscience.sbs</span>
+              <span>admin@derech-ayson-rabbinical-seminary.sbs</span>
             </a>
           </div>
         </div>
@@ -118,9 +118,9 @@ export default function Header() {
                 </Link>
               ))}
               <div className="pt-3 mt-3 border-t border-primary-100 text-xs text-primary-500 space-y-1">
-                <p>EIN: 77-0003763</p>
+                <p>EIN: 11-2611716</p>
                 <p>2646 Palma Dr Ste 250, Ventura, CA 93003-7739</p>
-                <a href="mailto:admin@unitedchurchofreligiousscience.sbs" className="block text-accent-600">admin@unitedchurchofreligiousscience.sbs</a>
+                <a href="mailto:admin@derech-ayson-rabbinical-seminary.sbs" className="block text-accent-600">admin@derech-ayson-rabbinical-seminary.sbs</a>
               </div>
             </div>
           </div>
