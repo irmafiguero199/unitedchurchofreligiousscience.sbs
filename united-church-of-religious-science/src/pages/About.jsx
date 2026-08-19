@@ -7,8 +7,8 @@ const milestones = [
   { year: '1926', title: 'The Science of Mind Published', description: 'Ernest Holmes publishes his foundational text, establishing the philosophical and spiritual basis for Religious Science.' },
   { year: '1927', title: 'Institute of Religious Science Founded', description: 'Ernest Holmes establishes the Institute of Religious Science and Philosophy to teach his principles and healing practices.' },
   { year: '1949', title: 'Religious Science Denomination Established', description: 'The International Association of Religious Science Churches is formed, creating an organized religious movement.' },
-  { year: '1954', title: 'United Church of Religious Science', description: 'Holmes forms the United Church of Religious Science, uniting congregations under a single denominational structure.' },
-  { year: '1984', title: 'Ventura Community Established', description: 'The United Church of Religious Science is founded in Ventura, California, receiving 501(c)(3) tax-exempt status from the IRS (EIN: 77-0003763).' },
+  { year: '1954', title: 'DERECH AYSON RABBINICAL SEMINARY', description: 'Holmes forms the DERECH AYSON RABBINICAL SEMINARY, uniting congregations under a single denominational structure.' },
+  { year: '1984', title: 'Ventura Community Established', description: 'The DERECH AYSON RABBINICAL SEMINARY is founded in Ventura, California, receiving 501(c)(3) tax-exempt status from the IRS (EIN: 11-2611716).' },
   { year: '2012', title: 'Centers for Spiritual Living Merger', description: 'The two major branches of Religious Science reunite under the name Centers for Spiritual Living, strengthening the global movement.' },
   { year: '2024', title: 'Continuing the Legacy', description: 'The Ventura community continues to serve as a beacon of hope, healing, and spiritual education for Ventura County and beyond.' },
 ]
@@ -23,9 +23,9 @@ export default function About() {
   return (
     <>
       <Helmet>
-        <title>About Us | United Church of Religious Science | 501(c)(3) Ventura, CA</title>
-        <meta name="description" content="Learn about the United Church of Religious Science in Ventura, CA. Founded in 1984 as a 501(c)(3) nonprofit (EIN: 77-0003763), we continue the legacy of Ernest Holmes and the Science of Mind." />
-        <link rel="canonical" href="https://unitedchurchofreligiousscience.sbs/about" />
+        <title>About Us | DERECH AYSON RABBINICAL SEMINARY | 501(c)(3) Ventura, CA</title>
+        <meta name="description" content="Learn about the DERECH AYSON RABBINICAL SEMINARY in Ventura, CA. Founded in 1984 as a 501(c)(3) nonprofit (EIN: 11-2611716), we continue the legacy of Ernest Holmes and the Science of Mind." />
+        <link rel="canonical" href="https://derech-ayson-rabbinical-seminary.sbs/about" />
       </Helmet>
 
       {/* Hero */}
@@ -34,11 +34,11 @@ export default function About() {
           <div className="max-w-3xl">
             <div className="inline-flex items-center gap-2 bg-primary-800 rounded-full px-4 py-1.5 mb-4 text-sm">
               <ShieldCheck className="w-4 h-4 text-accent-400" />
-              <span className="text-accent-300">501(c)(3) Nonprofit | EIN: 77-0003763</span>
+              <span className="text-accent-300">501(c)(3) Nonprofit | EIN: 11-2611716</span>
             </div>
             <h1 className="font-serif text-4xl md:text-5xl font-bold mb-6">About Our Church</h1>
             <p className="text-lg text-primary-200 leading-relaxed">
-              The United Church of Religious Science in Ventura is part of a global spiritual movement 
+              The DERECH AYSON RABBINICAL SEMINARY in Ventura is part of a global spiritual movement 
               founded on the transformative teachings of Ernest Holmes. For four decades, we have provided 
               a welcoming spiritual home for individuals seeking personal growth, healing, and community.
             </p>
@@ -54,14 +54,14 @@ export default function About() {
               <ShieldCheck className="w-5 h-5 text-accent-600 shrink-0" />
               <div>
                 <span className="font-semibold text-primary-900">Federal Tax ID:</span>
-                <span className="text-primary-700 ml-1">77-0003763</span>
+                <span className="text-primary-700 ml-1">11-2611716</span>
               </div>
             </div>
             <div className="flex items-center gap-2">
               <MapPin className="w-5 h-5 text-accent-600 shrink-0" />
               <div>
                 <span className="font-semibold text-primary-900">Registered Address:</span>
-                <span className="text-primary-700 ml-1">2646 Palma Dr Ste 250, Ventura, CA 93003-7739</span>
+                <span className="text-primary-700 ml-1">802 Hicksville Rd, Far Rockaway, NY 11691-5219</span>
               </div>
             </div>
             <div className="flex items-center gap-2">
@@ -124,18 +124,18 @@ export default function About() {
         <div className="container-narrow mx-auto">
           <SectionHeader
             title="Legal & Organizational Information"
-            subtitle="Official registration and governance details for the United Church of Religious Science."
+            subtitle="Official registration and governance details for the DERECH AYSON RABBINICAL SEMINARY."
           />
           <div className="bg-primary-50 rounded-xl p-8 border border-primary-100">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
               <div>
                 <h4 className="font-semibold text-primary-900 mb-2">Organization Name</h4>
-                <p className="text-primary-600">United Church of Religious Science</p>
+                <p className="text-primary-600">DERECH AYSON RABBINICAL SEMINARY</p>
                 <p className="text-primary-500 text-xs mt-1">Also known as: Center For Positive Living Ventura</p>
               </div>
               <div>
                 <h4 className="font-semibold text-primary-900 mb-2">Federal Tax ID (EIN)</h4>
-                <p className="text-primary-600 font-mono">77-0003763</p>
+                <p className="text-primary-600 font-mono">11-2611716</p>
               </div>
               <div>
                 <h4 className="font-semibold text-primary-900 mb-2">IRS Tax Status</h4>
@@ -155,8 +155,8 @@ export default function About() {
               <div>
                 <h4 className="font-semibold text-primary-900 mb-2">Contact</h4>
                 <p className="text-primary-600">
-                  <a href="mailto:admin@unitedchurchofreligiousscience.sbs" className="text-accent-600 hover:underline">
-                    admin@unitedchurchofreligiousscience.sbs
+                  <a href="mailto:admin@derech-ayson-rabbinical-seminary.sbs" className="text-accent-600 hover:underline">
+                    admin@derech-ayson-rabbinical-seminary.sbs
                   </a>
                 </p>
                 <p className="text-primary-600">
@@ -168,8 +168,8 @@ export default function About() {
               <div>
                 <h4 className="font-semibold text-primary-900 mb-2">Website</h4>
                 <p className="text-primary-600">
-                  <a href="https://unitedchurchofreligiousscience.sbs" className="text-accent-600 hover:underline">
-                    unitedchurchofreligiousscience.sbs
+                  <a href="https://derech-ayson-rabbinical-seminary.sbs" className="text-accent-600 hover:underline">
+                    derech-ayson-rabbinical-seminary.sbs
                   </a>
                 </p>
               </div>
