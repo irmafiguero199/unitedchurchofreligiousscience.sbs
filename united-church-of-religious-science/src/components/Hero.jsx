@@ -62,7 +62,7 @@ export default function Hero() {
           <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-1 text-xs text-primary-300">
             <span>EIN: 11-2611716</span>
             <span className="hidden sm:inline">|</span>
-            <span>2646 Palma Dr Ste 250, Ventura, CA 93003-7739</span>
+            <span>802 Hicksville Rd, Far Rockaway, NY 11691-5219</span>
             <span className="hidden sm:inline">|</span>
             <a href="mailto:admin@derech-ayson-rabbinical-seminary.sbs" className="hover:text-accent-300 transition-colors">
               admin@derech-ayson-rabbinical-seminary.sbs
