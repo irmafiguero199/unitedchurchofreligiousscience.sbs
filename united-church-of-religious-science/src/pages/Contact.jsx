@@ -20,8 +20,8 @@ export default function Contact() {
   return (
     <>
       <Helmet>
-        <title>Contact Us | United Church of Religious Science | 501(c)(3) Ventura, CA</title>
-        <meta name="description" content="Contact the United Church of Religious Science in Ventura, CA. 501(c)(3) nonprofit (EIN: 77-0003763). Address: 2646 Palma Dr Ste 250, Ventura, CA 93003-7739." />
+        <title>Contact Us | DERECH AYSON RABBINICAL SEMINARY | 501(c)(3) Ventura, CA</title>
+        <meta name="description" content="Contact the DERECH AYSON RABBINICAL SEMINARY in Ventura, CA. 501(c)(3) nonprofit (EIN: 11-2611716). Address: 802 Hicksville Rd, Far Rockaway, NY 11691-5219." />
         <link rel="canonical" href="https://unitedchurchofreligiousscience.sbs/contact" />
       </Helmet>
 
@@ -53,7 +53,7 @@ export default function Contact() {
                     <div>
                       <h4 className="font-semibold text-primary-900">Physical Address</h4>
                       <p className="text-primary-600 text-sm">
-                        United Church of Religious Science<br />
+                        DERECH AYSON RABBINICAL SEMINARY<br />
                         2646 Palma Dr Ste 250<br />
                         Ventura, CA 93003-7739<br />
                         United States
@@ -79,8 +79,8 @@ export default function Contact() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-primary-900">Email</h4>
-                      <a href="mailto:admin@unitedchurchofreligiousscience.sbs" className="text-primary-600 text-sm hover:text-accent-600 transition-colors">
-                        admin@unitedchurchofreligiousscience.sbs
+                      <a href="mailto:admin@derech-ayson-rabbinical-seminary.sbs" className="text-primary-600 text-sm hover:text-accent-600 transition-colors">
+                        admin@derech-ayson-rabbinical-seminary.sbs
                       </a>
                     </div>
                   </div>
@@ -108,11 +108,11 @@ export default function Contact() {
                   <h4 className="font-semibold text-primary-900">Nonprofit Information</h4>
                 </div>
                 <div className="text-sm text-primary-600 space-y-1">
-                  <p><span className="font-medium">Organization:</span> United Church of Religious Science</p>
-                  <p><span className="font-medium">EIN:</span> 77-0003763</p>
+                  <p><span className="font-medium">Organization:</span> DERECH AYSON RABBINICAL SEMINARY</p>
+                  <p><span className="font-medium">EIN:</span> 11-2611716</p>
                   <p><span className="font-medium">Status:</span> 501(c)(3) Tax-Exempt</p>
-                  <p><span className="font-medium">Address:</span> 2646 Palma Dr Ste 250, Ventura, CA 93003-7739</p>
-                  <p><span className="font-medium">Email:</span> <a href="mailto:admin@unitedchurchofreligiousscience.sbs" className="text-accent-600 hover:underline">admin@unitedchurchofreligiousscience.sbs</a></p>
+                  <p><span className="font-medium">Address:</span> 802 Hicksville Rd, Far Rockaway, NY 11691-5219</p>
+                  <p><span className="font-medium">Email:</span> <a href="mailto:admin@derech-ayson-rabbinical-seminary.sbs" className="text-accent-600 hover:underline">admin@derech-ayson-rabbinical-seminary.sbs</a></p>
                   <p><span className="font-medium">Phone:</span> <a href="tel:+18056431933" className="text-accent-600 hover:underline">(805) 643-1933</a></p>
                 </div>
               </div>
