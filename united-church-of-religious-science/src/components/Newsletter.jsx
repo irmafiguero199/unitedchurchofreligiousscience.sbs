@@ -48,7 +48,7 @@ export default function Newsletter() {
           )}
 
           <p className="text-xs text-primary-400 mt-4">
-            derech-ayson-rabbinical-seminary.sbs — EIN: 77-0003763 — 2646 Palma Dr Ste 250, Ventura, CA 93003-7739
+            derech-ayson-rabbinical-seminary.sbs — EIN:11-2611716 — 802 Hicksville Rd, Far Rockaway, NY 11691-5219
           </p>
         </div>
       </div>
