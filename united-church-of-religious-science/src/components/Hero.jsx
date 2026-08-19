@@ -20,7 +20,7 @@ export default function Hero() {
         <div className="max-w-3xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-primary-800/80 backdrop-blur-sm border border-primary-700 rounded-full px-4 py-1.5 mb-6">
             <ShieldCheck className="w-4 h-4 text-accent-400" />
-            <span className="text-sm font-medium text-accent-300">Registered 501(c)(3) Nonprofit | EIN: 77-0003763</span>
+            <span className="text-sm font-medium text-accent-300">Registered 501(c)(3) Nonprofit | EIN: 11-2611716</span>
           </div>
 
           <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
@@ -60,12 +60,12 @@ export default function Hero() {
       <div className="relative border-t border-primary-800 bg-primary-900/90">
         <div className="container-wide mx-auto px-4 sm:px-6 lg:px-8 py-3">
           <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-1 text-xs text-primary-300">
-            <span>EIN: 77-0003763</span>
+            <span>EIN: 11-2611716</span>
             <span className="hidden sm:inline">|</span>
             <span>2646 Palma Dr Ste 250, Ventura, CA 93003-7739</span>
             <span className="hidden sm:inline">|</span>
-            <a href="mailto:admin@unitedchurchofreligiousscience.sbs" className="hover:text-accent-300 transition-colors">
-              admin@unitedchurchofreligiousscience.sbs
+            <a href="mailto:admin@derech-ayson-rabbinical-seminary.sbs" className="hover:text-accent-300 transition-colors">
+              admin@derech-ayson-rabbinical-seminary.sbs
             </a>
           </div>
         </div>
