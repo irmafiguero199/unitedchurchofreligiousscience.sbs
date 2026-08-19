@@ -42,7 +42,7 @@ export default function Header() {
             </span>
             <span className="hidden sm:flex items-center gap-1.5 text-primary-200">
               <MapPin className="w-3.5 h-3.5" />
-              2646 Palma Dr Ste 250, Ventura, CA 93003-7739
+              802 Hicksville Rd, Far Rockaway, NY 11691-5219
             </span>
           </div>
           <div className="flex items-center gap-4">
@@ -119,7 +119,7 @@ export default function Header() {
               ))}
               <div className="pt-3 mt-3 border-t border-primary-100 text-xs text-primary-500 space-y-1">
                 <p>EIN: 11-2611716</p>
-                <p>2646 Palma Dr Ste 250, Ventura, CA 93003-7739</p>
+                <p>802 Hicksville Rd, Far Rockaway, NY 11691-5219</p>
                 <a href="mailto:admin@derech-ayson-rabbinical-seminary.sbs" className="block text-accent-600">admin@derech-ayson-rabbinical-seminary.sbs</a>
               </div>
             </div>
