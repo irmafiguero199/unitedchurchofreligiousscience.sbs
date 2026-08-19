@@ -86,8 +86,8 @@ export default function Footer() {
               <div className="flex items-start gap-2.5">
                 <MapPin className="w-4 h-4 text-accent-400 mt-0.5 shrink-0" />
                 <span className="text-primary-200">
-                  2646 Palma Dr Ste 250<br />
-                  Ventura, CA 93003-7739<br />
+                  802 Hicksville Rd<br />
+                  ckaway, NY 11691-5219<br />
                   United States
                 </span>
               </div>
