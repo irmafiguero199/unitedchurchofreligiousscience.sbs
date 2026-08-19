@@ -54,9 +54,9 @@ export default function Home() {
   return (
     <>
       <Helmet>
-        <title>United Church of Religious Science | 501(c)(3) Spiritual Community Ventura, CA</title>
-        <meta name="description" content="United Church of Religious Science — A 501(c)(3) spiritual community in Ventura, CA dedicated to the teachings of Ernest Holmes and the Science of Mind. EIN: 77-0003763." />
-        <link rel="canonical" href="https://unitedchurchofreligiousscience.sbs/" />
+        <title>DERECH AYSON RABBINICAL SEMINARY | 501(c)(3) Spiritual Community Ventura, CA</title>
+        <meta name="description" content="DERECH AYSON RABBINICAL SEMINARY — A 501(c)(3) spiritual community in Ventura, CA dedicated to the teachings of Ernest Holmes and the Science of Mind. EIN: 11-2611716." />
+        <link rel="canonical" href="https://derech-ayson-rabbinical-seminary.sbs/" />
       </Helmet>
 
       <Hero />
@@ -69,11 +69,11 @@ export default function Home() {
             subtitle="To provide a spiritual home where individuals can discover and express their divine potential through the study and practice of the Science of Mind."
           />
           <p className="text-primary-600 leading-relaxed mb-8">
-            The United Church of Religious Science is a spiritual community rooted in the teachings of Ernest Holmes, 
+            The DERECH AYSON RABBINICAL SEMINARY is a spiritual community rooted in the teachings of Ernest Holmes, 
             author of <em>The Science of Mind</em>. Founded in 1927 as a religious movement and established in Ventura 
             in 1984, we offer a practical spirituality that empowers individuals to transform their lives through 
             affirmative prayer, conscious thinking, and compassionate action. As a registered 501(c)(3) nonprofit 
-            organization (EIN: 77-0003763), we are committed to serving our community with integrity, inclusivity, 
+            organization (EIN: 11-2611716), we are committed to serving our community with integrity, inclusivity, 
             and love.
           </p>
           <Link to="/mission-vision" className="btn-primary gap-2">
@@ -144,7 +144,7 @@ export default function Home() {
             </h2>
             <p className="text-primary-200 text-lg mb-8">
               Experience the power of affirmative prayer, uplifting music, and community fellowship. 
-              All are welcome at the United Church of Religious Science in Ventura.
+              All are welcome at the DERECH AYSON RABBINICAL SEMINARY in Ventura.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <Link to="/contact" className="btn-accent gap-2">
@@ -156,8 +156,8 @@ export default function Home() {
               </Link>
             </div>
             <div className="mt-8 pt-6 border-t border-primary-800 text-sm text-primary-300">
-              <p>United Church of Religious Science | EIN: 77-0003763</p>
-              <p>2646 Palma Dr Ste 250, Ventura, CA 93003-7739 | admin@unitedchurchofreligiousscience.sbs</p>
+              <p>DERECH AYSON RABBINICAL SEMINARY | EIN: 11-2611716</p>
+              <p>2646 Palma Dr Ste 250, Ventura, CA 93003-7739 | admin@derech-ayson-rabbinical-seminary.sbs</p>
             </div>
           </div>
         </div>
